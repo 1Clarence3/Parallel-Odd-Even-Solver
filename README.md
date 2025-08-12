@@ -1,7 +1,7 @@
 # Parallelized Odd-Even Solver using CUDA and Sequential Odd-Even Solvers
 
 ## Authors
-Clarence Lin (cl4317@columbia.edu), Lixia Chen Wu (lc3716@barnard.edu)
+Clarence Lin (cl4317@columbia.edu)
 
 ## Overview
 
