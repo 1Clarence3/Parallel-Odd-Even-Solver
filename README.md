@@ -5,6 +5,8 @@ Clarence Lin (cl4317@columbia.edu)
 
 ## Overview
 
+Paper is in the repo as a PDF: "Parallel_optimization_Paper.pdf"
+
 This project implements a parallelized CUDA-based solution to solve tridiagonal systems of equations using cyclic reduction, a method commonly applied to large sparse linear systems. The solver utilizes both forward reduction and backward substitution in a parallelized fashion, leveraging GPU capabilities for optimal performance. This project also includes functionality for handling both statically defined matrices and dynamically generated matrices for testing.
 
 This notebook also includes the implementation of several CPU-based sequential algorithms to compare with our parallelized algorithm. Specifically, NumPy's np.linalg.solve() method as well as the Thomas algorithm were coded in Python. A sequential odd-even solver in C was also created.
