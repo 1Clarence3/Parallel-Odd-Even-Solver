@@ -1,7 +1,5 @@
 # Parallelized Odd-Even Solver using CUDA and Sequential Odd-Even Solvers
 
-## Overview
-
 Paper is in the repo as a PDF: "Parallel_optimization_Paper.pdf"
 
 This project implements a parallelized CUDA-based solution to solve tridiagonal systems of equations using cyclic reduction, a method commonly applied to large sparse linear systems. The solver utilizes both forward reduction and backward substitution in a parallelized fashion, leveraging GPU capabilities for optimal performance. This project also includes functionality for handling both statically defined matrices and dynamically generated matrices for testing.
