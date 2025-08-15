@@ -1,4 +1,6 @@
-# Parallelized Odd-Even Solver using CUDA and Sequential Odd-Even Solvers
+# Parallel-Odd-Even-Solver
+
+Parallelized Odd-Even Solver using CUDA and Sequential Odd-Even Solvers
 
 Paper is in the repo as a PDF: "Parallel_optimization_Paper.pdf"
 
